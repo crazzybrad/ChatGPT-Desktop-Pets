@@ -8,9 +8,9 @@ Created by [BRS Store](https://brsstore.com).
 
 | Folder | Name | What it is |
 | --- | --- | --- |
-| `jawa-bot` | Jawa Bot | A small hooded desert scavenger with glowing yellow eyes and a worn ion blaster. |
-| `trooper` | Trooper | A small armored trooper in white plastoid with a black visor and utility belt. |
-| `at-at` | AT-AT | A four-legged armored walker with a boxy head and a small red stripe. |
+| `jawa-bot` | Jawa Bot | A small hooded desert scavenger with glowing yellow eyes and a worn ion blaster.<br><br><img src="images/jawa-bot.png" alt="Jawa Bot" width="170"> |
+| `trooper` | Trooper | A small armored trooper in white plastoid with a black visor and utility belt.<br><br><img src="images/trooper.png" alt="Trooper" width="170"> |
+| `at-at` | AT-AT | A four-legged armored walker with a boxy head and a small red stripe.<br><br><img src="images/at-at.png" alt="AT-AT" width="170"> |
 
 ## Install
 
